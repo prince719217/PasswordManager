@@ -1,0 +1,18 @@
+• ibeclick: krke ek website h , jaha pre-defined stylish background ,using tailwind mil jate h
+
+
+• Functions and directives (isme hm apne hisab se multiple different classes ko lekr ek class bna skte h). eg:
+
+@layer components {
+  .btn {
+    @apply bg-green-500 text-white px-4 py-2 rounded;
+  }
+}
+
+
+• lordicon (website): animated icons
+
+ navigator.clipboard.writeText(e)  : this line for coping anything(given e)
+
+
+• React toastify : for amazing toast(special effect)
